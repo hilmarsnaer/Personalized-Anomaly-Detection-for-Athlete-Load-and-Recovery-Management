@@ -51,14 +51,6 @@ The following data files are expected to be in this location:
 | `data/subjective/injury/injury.csv` | Injury history |
 | `data/subjective/training-load/session.json` | RPE session data |
 
-## Usage
-
-```bash
-python main.py
-```
-The script runs the full pipeline and prints evaluation results to stdout. To redirect to a file:
-
-
 ## Key Hyperparameters
 
 These parameters can be configured at the top of [main.py](main.py):
