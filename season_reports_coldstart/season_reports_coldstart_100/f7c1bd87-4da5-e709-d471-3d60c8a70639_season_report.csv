@@ -1,0 +1,2 @@
+player_id,session,rows,columns,avg_speed,max_speed,avg_heart_rate,max_heart_rate,total_distance,acceleration_impulse,high_speed_distance
+f7c1bd87-4da5-e709-d471-3d60c8a70639,2021-11-16-TeamA-f7c1bd87-4da5-e709-d471-3d60c8a70639.parquet,482980,17,1.4727019396554042,6.363894,,,5507.002123,468575.085565,31.065166

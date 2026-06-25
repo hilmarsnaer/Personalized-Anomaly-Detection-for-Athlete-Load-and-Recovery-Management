@@ -1,0 +1,2 @@
+player_id,session,rows,columns,avg_speed,max_speed,avg_heart_rate,max_heart_rate,total_distance,acceleration_impulse,high_speed_distance,duration,injury,future_injury
+74afe68c-f348-414c-9754-6d6f9df12587,2021-11-14,866960,17,0.8513208547854786,2.369446,,,43.300234,3943.508122,,,False,

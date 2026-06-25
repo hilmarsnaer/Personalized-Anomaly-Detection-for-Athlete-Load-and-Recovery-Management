@@ -1,0 +1,11 @@
+Failed players (2):
+================================================================================
+
+Player: afc13e53-2c77-48cb-8a78-743663bbb84f
+Error: Could not open Parquet input source '<Buffer>': Parquet magic bytes not found in footer. Either the file is corrupted or this is not a parquet file.
+--------------------------------------------------------------------------------
+
+Player: eb1167b3-67a9-c378-7c65-c1e582e2e662
+Error: Could not open Parquet input source '<Buffer>': Parquet magic bytes not found in footer. Either the file is corrupted or this is not a parquet file.
+--------------------------------------------------------------------------------
+

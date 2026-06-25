@@ -1,0 +1,4 @@
+player_id,session,rows,columns,avg_speed,max_speed,avg_heart_rate,max_heart_rate,total_distance,acceleration_impulse,high_speed_distance,duration,injury,future_injury
+5eba590a-cecb-400f-a92e-08224c7e2e59,2021-08-15,540000,17,1.3144132903321082,6.366672,82.0,82.0,5257.174762,397637.778884,,,False,
+7ab47f4e-6eca-4793-880f-6a0dad3459c3,2021-08-15,948735,17,1.72005702676946,7.063895,,,12610.582725,920609.692024,,,False,
+d3fbf47a-7e5b-1e7f-9ca5-499d004ae545,2021-08-15,185209,17,1.1855851311994112,6.497227,,,1946.672639,167877.415996,,,False,
